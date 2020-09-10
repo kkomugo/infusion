@@ -1,6 +1,6 @@
 {
-    "label": "Captions",
-    "description": "Request embedded YouTube videos to display captions.",
+    "label": "Titlovi",
+    "description": "Zahtjevaj da ugrađeni YouTube videi pokazuju titlove.",
     "switchOn": "ON",
     "switchOff": "OFF"
 }

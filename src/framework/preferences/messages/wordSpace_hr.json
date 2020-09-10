@@ -1,6 +1,6 @@
 {
-    "label": "Word Spacing",
-    "description": "Adjust the spacing between words",
-    "increaseLabel": "increase word spacing",
-    "decreaseLabel": "decrease word spacing"
+    "label": "Razmak između riječi",
+    "description": "Podesi razmak između riječi",
+    "increaseLabel": "povećaj razmak između riječi",
+    "decreaseLabel": "smanji razmak između riječi"
 }

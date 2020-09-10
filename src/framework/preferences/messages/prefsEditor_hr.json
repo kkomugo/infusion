@@ -1,7 +1,7 @@
 {
-    "slidingPanelShowText": "+ Show Preferences",
-    "slidingPanelHideText": "- Hide Preferences",
-    "showTextAriaLabel": "Show Display Preferences",
-    "hideTextAriaLabel": "Hide Display Preferences",
-    "slidingPanelPanelLabel": "User Preferences"
+    "slidingPanelShowText": "+ Postavke pristupačnosti",
+    "slidingPanelHideText": "- Sakrij postavke",
+    "showTextAriaLabel": "Pokaži postavke pristupačnosti",
+    "hideTextAriaLabel": "Sakrij postavke pristupačnosti",
+    "slidingPanelPanelLabel": "Korisničke postavke"
 }

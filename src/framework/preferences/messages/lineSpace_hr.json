@@ -1,6 +1,6 @@
 {
-    "label": "Line Spacing",
-    "description": "Adjust the spacing between lines of text",
-    "increaseLabel": "increase line spacing",
-    "decreaseLabel": "decrease line spacing"
+    "label": "Razmak između linija",
+    "description": "Podesi razmak izmađu linija teksta",
+    "increaseLabel": "povećaj razmak izmađu linija",
+    "decreaseLabel": "smanji razmak izmađu linija"
 }

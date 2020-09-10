@@ -1,6 +1,6 @@
 {
-    "label": "Text-to-Speech",
-    "description": "Let the computer read site content out loud",
+    "label": "Tekst-u-govor",
+    "description": "Neka računalo čita sadržaj stranice",
     "switchOn": "ON",
     "switchOff": "OFF"
 }

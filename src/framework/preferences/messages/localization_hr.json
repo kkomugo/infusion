@@ -1,11 +1,12 @@
 {
-    "localization-default": "Default",
+    "localization-default": "Zadano",
     "localization-en": "English",
     "localization-en_CA": "English (Canada)",
     "localization-en_US": "English (USA)",
     "localization-es": "Español",
     "localization-fa": "فارسی",
     "localization-fr": "Français",
-    "label": "Localization",
-    "description": "Change the locale and/or language"
+    "localization-hr": "Hrvatski",
+    "label": "Lokalizacija",
+    "description": "Promjeni lokalizaciju i/ili jezik"
 }

@@ -1,6 +1,6 @@
 {
-    "label": "Syllables",
-    "description": "Display words separated into syllables.",
+    "label": "Slogovi",
+    "description": "Prikaži riječi razdvojene u slogove.",
     "switchOn": "ON",
     "switchOff": "OFF"
 }

@@ -1,6 +1,6 @@
 {
-    "label": "Enhance Inputs",
-    "description": "Emphasize links, buttons, menus, textfields, and other inputs",
+    "label": "Unaprijedi ulaze",
+    "description": "Naglasi linkove, tipke, izbornike, tekstualna polja, i druge ulaze",
     "switchOn": "ON",
     "switchOff": "OFF"
 }

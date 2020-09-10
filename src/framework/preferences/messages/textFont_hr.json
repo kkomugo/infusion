@@ -1,10 +1,10 @@
 {
-    "textFont-default": "Default",
+    "textFont-default": "Zadano",
     "textFont-times": "Times New Roman",
     "textFont-comic": "Comic Sans",
     "textFont-arial": "Arial",
     "textFont-verdana": "Verdana",
     "textFont-open-dyslexic": "Open Dyslexic",
-    "textFontLabel": "text style",
-    "textFontDescr": "Change the font used"
+    "textFontLabel": "stil teksta",
+    "textFontDescr": "Promjeni font koji se koristi"
 }
